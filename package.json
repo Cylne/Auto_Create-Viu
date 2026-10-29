@@ -1,0 +1,13 @@
+{
+  "name": "viu-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Viu auto create + JWT token extractor",
+  "main": "viu-tool.cjs",
+  "scripts": {
+    "start": "xvfb-run -a node viu-tool.cjs"
+  },
+  "dependencies": {
+    "playwright-core": "1.56.0"
+  }
+}

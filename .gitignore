@@ -1,0 +1,16 @@
+# Dependensi
+node_modules/
+package-lock.json
+
+# Konfigurasi rahasia
+.env
+
+# Hasil
+results.jsonl
+*.jsonl
+
+# Log & cache
+*.log
+npm-debug.log*
+.cache/
+.DS_Store
