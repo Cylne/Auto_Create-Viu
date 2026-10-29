@@ -91,7 +91,7 @@ Setiap tahap memiliki retry independen. Kegagalan jaringan pada satu akun tidak 
 ### 1. Clone repositori
 
 ```bash
-git clone https://github.com/<username>/viu-auto-create.git
+git clone https://github.com/Cylne/Auto_Create-Viu.git
 cd viu-auto-create
 ```
 
